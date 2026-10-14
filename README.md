@@ -10,4 +10,4 @@ This project includes colored markers that indicate important locations to my pe
 
 ## Interactive Web Map
 
-[View My Interactive 3D Web Map](https://ateal1299.github.io/AshleyTeal-ArcGIS-3D-WebMap/)
+[View My Interactive 3D Web Map](https://ateal1299.github.io/ArcGIS-3D-Webmap/)
